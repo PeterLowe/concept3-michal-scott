@@ -13,10 +13,12 @@ You try and avoid other things dropping from the Eiffel tower that Kanye doesn't
 In the background you can hear recognisable medleys based off of Kanye's discography.
 ...
 Pillars
-
+Game speeds up by .0000005 each time you get 10 fruit, avoid drakes CLB album 
+covers, catch ¥ to earn 2 points and each time you catch CLB album covers you 
+are reset to 0, beat the max score of 1,000,000 points and win a free pair of yeezys.
 ...
 [sm]Features
 Features the real Ye with voice acting done by the legend himself, also featuring
-the hit song Homies in Paris, beat the max score of 1,000,000 points and win a free 
-pair of yeezys.
+the hit song Homies in Paris, Unlock new characters with points gained from playing
+such as Travis Scott and Kim Kardashian.
 ...
