@@ -1,6 +1,8 @@
-[sm]Title
+
+[mr] [sm] Title
 Hungry Hungry Ye
-Elavator Pitch
+...
+Elevator Pitch
 ...
 30 second  gameplay description
 ...
