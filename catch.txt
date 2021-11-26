@@ -3,8 +3,14 @@
 Hungry Hungry Ye
 ...
 Elevator Pitch
+Hungry Hungry Ye is a "catch" type game set in the city of Paris where a hungry Kanye collects
+food falling from the top of the Eiffel Tower. Help him feast as much as possible in a game that
+tests reaction speed and awareness to the highest degree.
 ...
 30 second  gameplay description
+In the game, you collect all sorts of Kanye's favourite food - from Croissants to McDonalds.
+You try and avoid other things dropping from the Eiffel tower that Kanye doesn't like.
+In the background you can hear recognisable medleys based off of Kanye's discography.
 ...
 Pillars
 
